@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+tr{
+    border-top: 1px solid gray ;
+    border-bottom: 1px solid gray ;
+    border-left: 1px solid grey;
+}
+
+th, td{
+    padding: 5px;
+    border-right: 1px solid grey;
+}
+
